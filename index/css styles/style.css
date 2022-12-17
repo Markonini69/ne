@@ -1,0 +1,67 @@
+
+  h1{
+    border-bottom-style: ridge;
+    border-top-style: ridge;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 20px 0;
+    color: #b10707;
+    text-shadow: 3px 3px 1px black;
+        font-family: 'Martian Mono', monospace;
+        }
+            h2 {
+                margin: 0 auto;
+
+                letter-spacing: 1px;
+                text-align: left;
+                font-size: 30px;
+        font-family: 'Secular One', sans-serif;
+        }
+            h3{
+                letter-spacing: 1px;
+                text-align: center;
+                font-size: 25px;
+            }
+            p {
+                border-bottom-style: ridge;
+                margin: 0 auto;
+                padding: 20px 0;
+                color: darkorange;
+                text-shadow: 3px 3px 1px #b10707;
+                letter-spacing: 1px;
+                text-align: center;
+                font-size: 30px;
+        font-family: 'Rubik Gemstones', cursive;
+        }
+ol{
+    border-style: outset;
+    border-width: 10px;
+    padding: 10px;
+    border-color: aliceblue;
+    text-align: left;
+    font-size: 20px;
+}
+a{
+    letter-spacing: 1px;
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+body{
+    border-style: inset;
+    border-width: 10px;
+    border-color: black;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px 30px 300px 30px;
+    border: 10px rgb(230, 255, 3);
+    background: #123456;
+    color: wheat;
+}
+
+    
